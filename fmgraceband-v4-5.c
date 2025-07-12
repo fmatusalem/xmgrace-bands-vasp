@@ -1,4 +1,4 @@
-/*BY FILIPE MATUSALEM, MARCH 2014     filipematus@gmail.com */
+/*BY FILIPE MATUSALEM, MARCH 2014     fmatusalem@ita.br */
 //version 4.5 Sept 2022
 //compilation:  g++ -o fmgraceband.x fmgraceband-v4-5.c
 //use: just ./fmgraceband.x on the directory with the VASP band structure calculation.
